@@ -1,0 +1,38 @@
+[
+{
+"name": "Ksiezniczka z lodu",
+"seria": "Saga o Fjallbace",
+"nr_tom": 1,
+"rok_wydania":2,
+"przeczytane": true
+},
+{
+"name": "Kaznodzieja",
+"seria": "Saga o Fjallbace",
+"nr_tom": 2,
+"rok_wydania":2,
+"przeczytane": true
+
+},
+{
+"name": "Kamieniarz",
+"seria": "Saga o Fjallbace",
+"nr_tom": 3,
+"rok_wydania":2,
+"przeczytane": true
+},
+{
+"name": "Ofiara losu",
+"seria": "Saga o Fjallbace",
+"nr_tom": 4,
+"rok_wydania":2,
+"przeczytane": false
+},
+{
+"name": "Niemiecki bekart",
+"seria": "Saga o Fjallbace",
+"nr_tom": 5,
+"rok_wydania":2,
+"przeczytane": false
+}
+]
